@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aiadasaad246
+- 👋 Hi, I’m Aiad Asaad
 - 👀 I’m interested in machine learning and Artificial intelligence
 - 🌱 I’m currently learning advanced tequniques and NLP 
 - 📫 How to reach me You can send me via aiadasaadmesak@gmail.com or via whatsapp +201227677528
